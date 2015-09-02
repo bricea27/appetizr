@@ -1,0 +1,11 @@
+{
+    "name": "appetizr",
+    "version": "1.0.0",
+    "dependencies": {
+        "font-awesome": "latest",
+        "animate.css": "latest",
+        "angular": "latest",
+        "jquery": "latest",
+        "modernizr": "latest"
+    }
+}
