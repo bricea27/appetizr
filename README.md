@@ -14,6 +14,6 @@ Appetizr is a web starter kit, including everything you need to start bulding we
 ## Installation:
 * Clone this repository and <pre><code>cd appetizr</code></pre>
 * Install the dependencies <pre><code>npm install</code></pre>
-* Run your server <pre><code>DEBUG=appetizr npm start</code></pre>
+* Run your server <pre><code>npm start</code></pre>
 
 You're ready to start building!
